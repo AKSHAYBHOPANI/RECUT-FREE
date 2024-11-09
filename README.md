@@ -17,3 +17,9 @@ Focus on the file "settings.json"
 4. Enjoy it free
 
 You just save 99$ with this.
+
+*2024 Update, It seems they changed the AppData Location. Here is the Reference to the Location in Finder -
+
+![image](https://github.com/user-attachments/assets/061e3435-a8c8-4e0a-a3d9-5fa7cf3bacb6)
+
+Changing it 999998 did worked.
